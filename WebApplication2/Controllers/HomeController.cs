@@ -17,6 +17,7 @@ namespace WebApplication2.Controllers
             ViewBag.Books = books;
             return View();
         }
+
         public ActionResult GetImage()
         {
             string path = "../../Content/Images/Warface_sample.jpg";
