@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metanit_mvc5", "metanit_mvc5\metanit_mvc5.csproj", "{CDD5DD78-16D1-4798-B828-1BC673C6EBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD5DD78-16D1-4798-B828-1BC673C6EBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD5DD78-16D1-4798-B828-1BC673C6EBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD5DD78-16D1-4798-B828-1BC673C6EBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD5DD78-16D1-4798-B828-1BC673C6EBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C478F90-F25C-4A3C-B79B-4B7F45B2BD2D}
+	EndGlobalSection
+EndGlobal
